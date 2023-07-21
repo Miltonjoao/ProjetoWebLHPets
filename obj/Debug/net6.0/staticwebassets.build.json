@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jv27Lk0Pr+c/0ISjtuRyFPIjVXcvGg6EgeUE6jd8Raw=",
+  "Source": "Projeto Web-Lh Pets versão 1",
+  "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web-Lh Pets versão 1\\wwwroot",
+      "Source": "Projeto Web-Lh Pets versão 1",
+      "ContentRoot": "D:\\Programador Full-Stack_Senai_pago\\Modulo 14 - Codificação para Back-End\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto Web-Lh Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Programador Full-Stack_Senai_pago\\Modulo 14 - Codificação para Back-End\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto Web-Lh Pets versão 1\\wwwroot\\index.html",
+      "SourceId": "Projeto Web-Lh Pets versão 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programador Full-Stack_Senai_pago\\Modulo 14 - Codificação para Back-End\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto Web-Lh Pets versão 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
